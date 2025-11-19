@@ -34,7 +34,7 @@ public class Primes {
     int prc = (int) (100.0 * counter / N);
 
 
-    System.out.println("There are "+ counter + " primes between 2 and " + N+ "(" +prc + "% are primes)" );
+    System.out.println("There are "+ counter + " primes between 2 and " + N+ " (" +prc + "% are primes)" );
 
 
 }
